@@ -33,7 +33,7 @@ Karena browser modern memiliki kebijakan keamanan untuk modul JavaScript, Anda t
 1.  Buka Terminal atau Command Prompt.
 2.  Instal paket `serve` secara global (hanya perlu dilakukan sekali):
     ```bash
-    npm install -g serve
+    npm install
     ```
 3.  Navigasi ke direktori proyek ini menggunakan `cd`.
 4.  Jalankan perintah berikut:
