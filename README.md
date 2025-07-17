@@ -38,7 +38,7 @@ Karena browser modern memiliki kebijakan keamanan untuk modul JavaScript, Anda t
 3.  Navigasi ke direktori proyek ini menggunakan `cd`.
 4.  Jalankan perintah berikut:
     ```bash
-    serve .
+    npm run dev
     ```
 5.  Buka browser Anda dan kunjungi alamat yang ditampilkan di terminal (biasanya `http://localhost:3000`).
 
